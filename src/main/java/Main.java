@@ -8,12 +8,7 @@ public class Main {
 
     StatsService statsService = new StatsService();
 
-
     //System.out.println("Сумма доходов:  " + total );
-
-
-
-
 
   }
 
